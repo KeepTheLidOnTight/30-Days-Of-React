@@ -38,6 +38,7 @@ const Header = ({
 }) => {
   return (
     <header>
+      // adding a comment cause one not
       <div className='header-wrapper'>
         <h1>{welcome}</h1>
         <h2>{title}</h2>
